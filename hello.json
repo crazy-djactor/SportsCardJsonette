@@ -3,7 +3,7 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https://www.google.com",
+        "url": "http://34.67.196.64:3000/",
         "style": {
           "background": "#ffffff",
           "progress" : "rgba(0,0,0,0)"
